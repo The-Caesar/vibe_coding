@@ -46,3 +46,8 @@ Enjoy building!
 This repository provides a comprehensive toolkit for enhancing GitHub Copilot with specialized:
 
 https://github.com/github/awesome-copilot
+
+Just in time context:
+
+My generate-AGENTS.md Prompt: https://rfer.me/agentsmd
+My generate-CLAUDE.md Prompt: https://rfer.me/claudemd
