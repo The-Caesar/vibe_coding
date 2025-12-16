@@ -45,6 +45,9 @@ Enjoy building!
 🚀 What is Awesome GitHub Copilot?
 This repository provides a comprehensive toolkit for enhancing GitHub Copilot with specialized:
 
+
+https://github.com/github/awesome-copilot
+
 https://github.com/github/awesome-copilot
 
 Just in time context:
